@@ -1,8 +1,6 @@
 # *Projeto Acadêmico Facultativo* #
 ## Jogo de Damas - Programação Orientada a Objetos
----
-https://github.com/user-attachments/assets/675e5169-9fc2-4eec-8a0a-65ffa6db3048
----
+
 ### *MEMBROS DA EQUIPE*
 
     1. Allan Takeshi morimoto
